@@ -1,0 +1,17 @@
+{
+  "name": "seiright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Aditya Anand",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "openai": "^4.67.1",
+    "puppeteer": "^23.5.0"
+  }
+}
