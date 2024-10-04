@@ -15,7 +15,7 @@ This project is a web-based API that scrapes a policy and target webpage, and ch
 1. Clone the repository:
     ```bash
     git clone <repository-url>
-    cd compliance-checker
+    cd seiright
     ```
 
 2. Install the dependencies:
@@ -36,6 +36,9 @@ This project is a web-based API that scrapes a policy and target webpage, and ch
 ## Usage
 
 To check a target webpage for compliance against a policy, make a `POST` request to `/api/check-compliance` with the following JSON structure:
+sample postman curl : curl --location 'http://localhost:3000/api/check-compliance' \
+--header 'Content-Type: application/json' \
+--data '{"policyUrl": "https://stripe.com/docs/treasury/marketing-treasury", "targetUrl": "https://mercury.com/"}'
 
 ```json
 {

@@ -1,0 +1,16 @@
+Compliance Policy: Compliance policy includes proper terminology to follow when marketing treasury-based services. This includes avoiding references to “banking," “banks," and “bank accounts,” along with other terms unless the entities making these references are state- or federally-chartered banks or credit unions.
+Compliance Check for the Target Webpage:
+1. Non-compliant Terms:
+  - The webpage uses the terminology, "Powerful banking" and "business banking" which directly violates the compliance policy that strictly prohibits references to "banking."
+  - References to "FDIC-insured bank accounts" and "bank account" are used, these terms are not recommended by the compliance policy.
+2. Yield Compliance:
+  - Claims are made about earning "up to 5.14% yield4 on your idle cash." However, it's unclear whether customers are informed that the yield percentage can change and under what conditions. The compliance policy specifically states this should be mentioned prominent in marketing material for complete transparency.
+      
+3. FDIC Insurance Eligibility:
+  - While the FDIC insurance compliance terms are mentioned, the website claims "FDIC insurance," a term which is strictly forbidden by the compliance policy. Instead, terms such as "eligible for FDIC insurance" should be used.
+4. Recommended Terms:
+   - The webpage correctly uses the recommended term "financial technology company" to describe the banking services provider.
+5. Communication Regarding the Nature of the Product:
+  - It's unclear whether the website adheres to the compliance policy's guideline to precisely communicate the nature of the product while considering regulations.
+Therefore, the target webpage does not fully comply with the provided compliance policy. Several terms and phrases used in its content are explicitly prohibited by the policy, and the explanation of their financial product offerings could be more precise and clear according to the outlined policy. 
+Please note, a thorough analysis of the website's complete content should be conducted for a comprehensive compliance check.
